@@ -66,10 +66,6 @@ NetSentinel-AI/
 - Threat Intelligence Integration
 - CSV/PDF Report Export
 
-# Dashboard
-
-(Add screenshots here after uploading them to the screenshots folder.)
-
 # Author
 
 **Pembarla Tharun Yadav**
